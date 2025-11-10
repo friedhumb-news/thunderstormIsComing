@@ -6,17 +6,17 @@
 ---
   
 ### NewsAPI  
-:no_entry: NewsAPI key **missing**:  
-1. Please register at https://newsapi.org/register  
-2. Login and get your API key at https://newsapi.org/account  
-3. Assign the API key as new organization secret at https://github.com/organizations/friedhumb-news/settings/secrets/actions/new  
-   * Name:  **NEWSAPI_KEY**   
-   * Value: **Your key here**   
+:white_check_mark: NewsAPI key exists  
+:white_check_mark: NewsAPI respone fine  
+:white_check_mark: NewsAPI status fine  
+:white_check_mark: NewsAPI results found  
 
 ---
   
 ### GeonamesAPI  
-:no_entry: Geonames key **missing**:  
+:white_check_mark: Geonames key exists  
+:white_check_mark: Geonames respone fine  
+:no_entry: **Not** registered at Geonames  
 1. Please register with username (i.e.: friedhumb_news) at https://www.geonames.org/login  
 2. Assign the choosen username as new organization secret at https://github.com/organizations/friedhumb-news/settings/secrets/actions/new  
    * Name:  **GEONAMES_KEY**   
