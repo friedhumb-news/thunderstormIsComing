@@ -668,6 +668,14 @@ def inqGeonamesApi(results=[]):
         results.append(":no_entry: **Not** registered at Geonames...")
         addRegisterGeonamesToResults(results)
         return False
+      if('invalid user' in status['message']):
+        results.append(":no_entry: **Not** registered at Geonames (or invalid)")
+        recheckRegisterGeonamesToResults(results)
+        return False
+      if(('user account not enabled to use the free webservice' in status['message']) or ('Please enable it on your account page' in status['message'])):
+        results.append(":no_entry: **Not** enabled at Geonames - enable at https://www.geonames.org/manageaccount ")
+        #addRegisterGeonamesToResults(results)
+        return False
 
     if('status' in jsonData):
       status = jsonData['status']
