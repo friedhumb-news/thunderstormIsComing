@@ -6,3 +6,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ambosswolken',de,Causes,#00ffff,#00ffff,2,0.5
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,2,0.5
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,2,0.5
+'Hagel',de,Hazard,#ff0000,#ff0000,2,0.6
+'Hagelschaden',de,Impacts,#ffff00,#ffff00,2,0.5
