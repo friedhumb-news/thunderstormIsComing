@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blitz Feuer',de,Impacts,#ffff00,#ffff00,2,0.5
+'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.42500012
 'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.425
 'Blitz und Donner',de,Hazard,#ff0000,#ff0000,1,0.4087970956874999
 'Hagel',de,Hazard,#ff0000,#ff0000,3,0.3922593767887499
