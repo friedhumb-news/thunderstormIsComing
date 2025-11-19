@@ -6,5 +6,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Hazard,#ff0000,#ff0000,2,0.373264677418068
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.362450222
 'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.3612499999999999
-'Blitz und Donner',de,Hazard,#ff0000,#ff0000,1,0.34852763633437495
-'Ambosswolken',de,Causes,#00ffff,#00ffff,2,0.3074484135874999
+'Blitz und Donner',de,Hazard,#ff0000,#ff0000,1,0.3485276363343749
+'Ambosswolken',de,Causes,#00ffff,#00ffff,2,0.2614811665493749
