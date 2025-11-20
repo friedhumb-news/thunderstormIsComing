@@ -1,15 +1,15 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Manuel Hagel,Manuel Hagel,PER,0.057499999999999996,0.0,de,20,,,,,,
-CDU-Kandidat Hagel,CDU-Kandidat Hagel,PER,1.0,0.0,de,2,,,,,,
-Jonas Piontek,Jonas Piontek,PER,0.0,0.0,de,2,,,,,,
-CDU-Chef Hagel,CDU-Chef Hagel,PER,0.0,0.0,de,2,,,,,,
-Markus Söder,Markus Söder,PER,0.0,0.5,de,2,,,,,,
-CDU-Landeschef Hagel,CDU-Landeschef Hagel,PER,0.0,0.0,de,1,,,,,,
-Sturmtief „Joshua“,Sturmtief „Joshua“,PER,0.7,0.0,de,1,,,,,,
-Karsten Brandt,Karsten Brandt,PER,0.0,0.0,de,1,,,,,,
-Sturmtief Joshua,Sturmtief Joshua,PER,0.7,0.0,de,1,,,,,,
-Michael Stu,Michael Stu,PER,0.0,1.0,de,1,,,,,,
-CSU-Chef Markus Söder,CSU-Chef Markus Söder,PER,0.0,0.0,de,1,,,,,,
-Johannes Plenio,Johannes Plenio,PER,0.0,0.0,de,1,,,,,,
-Aaron Burden,Aaron Burden,PER,0.0,0.0,de,1,,,,,,
-Cem Özdemir,Cem Özdemir,PER,0.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Manuel Hagel,Manuel Hagel,PER,0.442307692307692,0.0,de,2.6000000000000014
+Jonas Piontek,Jonas Piontek,PER,0.0,0.0,de,1.9
+CDU-Kandidat Hagel,CDU-Kandidat Hagel,PER,1.8181818181818181,0.0,de,1.1
+CDU-Chef Hagel,CDU-Chef Hagel,PER,0.0,0.0,de,1.1
+Markus Söder,Markus Söder,PER,0.0,0.9090909090909091,de,1.1
+CDU-Landeschef Hagel,CDU-Landeschef Hagel,PER,0.0,0.0,de,1.0
+Sturmtief „Joshua“,Sturmtief „Joshua“,PER,0.7,0.0,de,1.0
+Karsten Brandt,Karsten Brandt,PER,0.0,0.0,de,1.0
+Sturmtief Joshua,Sturmtief Joshua,PER,0.7,0.0,de,1.0
+Michael Stu,Michael Stu,PER,0.0,1.0,de,1.0
+CSU-Chef Markus Söder,CSU-Chef Markus Söder,PER,0.0,0.0,de,1.0
+Johannes Plenio,Johannes Plenio,PER,0.0,0.0,de,1.0
+Aaron Burden,Aaron Burden,PER,0.0,0.0,de,1.0
+Cem Özdemir,Cem Özdemir,PER,0.0,0.0,de,1.0

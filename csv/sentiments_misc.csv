@@ -1,49 +1,49 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-“,“,MISC,,,de,14,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,11,,,,,,
-spanische,spanische,MISC,,,de,5,,,,,,
-baden-württembergische,baden-württembergische,MISC,,,de,4,,,,,,
-Wetter“,Wetter“,MISC,,,de,3,,,,,,
-Zeit,Zeit,MISC,,,de,2,,,,,,
-CDU-Spitzenkandidat,CDU-Spitzenkandidat,MISC,,,de,2,,,,,,
-spanischen,spanischen,MISC,,,de,2,,,,,,
-"Wind, Regen","Wind, Regen",MISC,,,de,2,,,,,,
-DWD-Prognose,DWD-Prognose,MISC,,,de,2,,,,,,
-Kaltluftfront,Kaltluftfront,MISC,,,de,2,,,,,,
-syrische,syrische,MISC,,,de,1,,,,,,
-Flugha… Wie,Flugha… Wie,MISC,,,de,1,,,,,,
-österreichischen,österreichischen,MISC,,,de,1,,,,,,
-Tag und Nacht,Tag und Nacht,MISC,,,de,1,,,,,,
-nächsten Jahr,nächsten Jahr,MISC,,,de,1,,,,,,
-christliche,christliche,MISC,,,de,1,,,,,,
-Söder“,Söder“,MISC,,,de,1,,,,,,
-Unvereinbarkeit“,Unvereinbarkeit“,MISC,,,de,1,,,,,,
-Wählern radi,Wählern radi,MISC,,,de,1,,,,,,
-deutsche,deutsche,MISC,,,de,1,,,,,,
-Wir kämpfen gegen radikale und populistische Parteien,Wir kämpfen gegen radikale und populistische Parteien,MISC,,,de,1,,,,,,
-Deutsche,Deutsche,MISC,,,de,1,,,,,,
-’s,’s,MISC,,,de,1,,,,,,
-AfD-Wählern,AfD-Wählern,MISC,,,de,1,,,,,,
-Der baden-württembergische CDU-Landeschef,Der baden-württembergische CDU-Landeschef,MISC,,,de,1,,,,,,
-baden-württembergischen,baden-württembergischen,MISC,,,de,1,,,,,,
-mei…,mei…,MISC,,,de,1,,,,,,
-Bewölkun…,Bewölkun…,MISC,,,de,1,,,,,,
-Kaltfront“,Kaltfront“,MISC,,,de,1,,,,,,
-Gewitter“,Gewitter“,MISC,,,de,1,,,,,,
-Wetterprognose“,Wetterprognose“,MISC,,,de,1,,,,,,
-Menschen i…,Menschen i…,MISC,,,de,1,,,,,,
-Brandmauer“,Brandmauer“,MISC,,,de,1,,,,,,
-Die Busfahrerinnen,Die Busfahrerinnen,MISC,,,de,1,,,,,,
-Exponiert k,Exponiert k,MISC,,,de,1,,,,,,
-Deutscher,Deutscher,MISC,,,de,1,,,,,,
-ungemütliches,ungemütliches,MISC,,,de,1,,,,,,
-ePaper,ePaper,MISC,,,de,1,,,,,,
-Stürmischer Wochenstart,Stürmischer Wochenstart,MISC,,,de,1,,,,,,
-Deutschem,Deutschem,MISC,,,de,1,,,,,,
-Ibiza & Formentera,Ibiza & Formentera,MISC,,,de,1,,,,,,
-Bekenntnis“,Bekenntnis“,MISC,,,de,1,,,,,,
-CDU-Kandidat,CDU-Kandidat,MISC,,,de,1,,,,,,
-Kaltfront,Kaltfront,MISC,0.0,0.0,de,1,,,,,,
-Tag davor turnt der spanische,Tag davor turnt der spanische,MISC,,,de,1,,,,,,
+",MISC,,,de,5.900000000000001
+“,“,MISC,,,de,5.299999999999999
+spanische,spanische,MISC,,,de,4.6
+Wetter“,Wetter“,MISC,,,de,2.8
+spanischen,spanischen,MISC,,,de,1.9
+"Wind, Regen","Wind, Regen",MISC,,,de,1.9
+Zeit,Zeit,MISC,,,de,1.9
+DWD-Prognose,DWD-Prognose,MISC,,,de,1.9
+Kaltluftfront,Kaltluftfront,MISC,,,de,1.9
+baden-württembergische,baden-württembergische,MISC,,,de,1.3000000000000003
+CDU-Spitzenkandidat,CDU-Spitzenkandidat,MISC,,,de,1.1
+nächsten Jahr,nächsten Jahr,MISC,,,de,1.0
+Flugha… Wie,Flugha… Wie,MISC,,,de,1.0
+österreichischen,österreichischen,MISC,,,de,1.0
+Tag und Nacht,Tag und Nacht,MISC,,,de,1.0
+christliche,christliche,MISC,,,de,1.0
+Söder“,Söder“,MISC,,,de,1.0
+Wir kämpfen gegen radikale und populistische Parteien,Wir kämpfen gegen radikale und populistische Parteien,MISC,,,de,1.0
+AfD-Wählern,AfD-Wählern,MISC,,,de,1.0
+syrische,syrische,MISC,,,de,1.0
+Deutsche,Deutsche,MISC,,,de,1.0
+’s,’s,MISC,,,de,1.0
+baden-württembergischen,baden-württembergischen,MISC,,,de,1.0
+Der baden-württembergische CDU-Landeschef,Der baden-württembergische CDU-Landeschef,MISC,,,de,1.0
+Wählern radi,Wählern radi,MISC,,,de,1.0
+Unvereinbarkeit“,Unvereinbarkeit“,MISC,,,de,1.0
+deutsche,deutsche,MISC,,,de,1.0
+mei…,mei…,MISC,,,de,1.0
+Bewölkun…,Bewölkun…,MISC,,,de,1.0
+Kaltfront“,Kaltfront“,MISC,,,de,1.0
+Gewitter“,Gewitter“,MISC,,,de,1.0
+Wetterprognose“,Wetterprognose“,MISC,,,de,1.0
+Menschen i…,Menschen i…,MISC,,,de,1.0
+Brandmauer“,Brandmauer“,MISC,,,de,1.0
+Die Busfahrerinnen,Die Busfahrerinnen,MISC,,,de,1.0
+Exponiert k,Exponiert k,MISC,,,de,1.0
+Deutscher,Deutscher,MISC,,,de,1.0
+ungemütliches,ungemütliches,MISC,,,de,1.0
+ePaper,ePaper,MISC,,,de,1.0
+Stürmischer Wochenstart,Stürmischer Wochenstart,MISC,,,de,1.0
+Deutschem,Deutschem,MISC,,,de,1.0
+Ibiza & Formentera,Ibiza & Formentera,MISC,,,de,1.0
+Bekenntnis“,Bekenntnis“,MISC,,,de,1.0
+CDU-Kandidat,CDU-Kandidat,MISC,,,de,1.0
+Kaltfront,Kaltfront,MISC,0.0,0.0,de,1.0
+Tag davor turnt der spanische,Tag davor turnt der spanische,MISC,,,de,1.0
