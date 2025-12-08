@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.10657708700631492
+'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.09963353304627674
 'Blitz und Donner',de,Hazard,#ff0000,#ff0000,1,0.0870935356246614
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,1,0.085606456320301
 'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.0850306035528268
