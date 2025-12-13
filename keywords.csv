@@ -6,5 +6,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,1,0.0546110187627047
 'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.051384834765442
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.0457988783659916
-'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.04534258959459766
-'Ambosswolken',de,Causes,#00ffff,#00ffff,1,0.0445603154354513
+'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.0453425895945976
+'Ambosswolken',de,Causes,#00ffff,#00ffff,1,0.03802628312013361
