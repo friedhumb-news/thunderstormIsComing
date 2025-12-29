@@ -1,8 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,-0.11016949152542371,0.0,de,11.800000000000002
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.4146341463414634,0.0,de,8.200000000000001
+DWD,DWD,ORG,-0.16911764705882348,0.0,de,13.600000000000003
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.48351648351648346,0.0,de,9.100000000000001
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,4.6
 Aemet,Aemet,ORG,0.3783783783783784,0.0,de,3.6999999999999997
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,3.6999999999999997
 AfD,AfD,ORG,0.7045454545454544,0.0,de,2.2
 AEMET,AEMET,ORG,0.0,0.0,de,1.9
 GEO,GEO,ORG,1.0526315789473684,0.0,de,1.9
