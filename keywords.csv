@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ambosswolken',de,Causes,#00ffff,#00ffff,1,0.1041593551502825
-'Gewitter',de,Hazard,#ff0000,#ff0000,2,0.03806103593237791
+'Gewitter',de,Hazard,#ff0000,#ff0000,2,0.0380610359323779
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,1,0.0310607329537434
 '+Hagel -CDU',de,Hazard,#ff0000,#ff0000,1,0.0283474862940436
 'Blitz und Donner',de,Hazard,#ff0000,#ff0000,1,0.0277077186816793
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0260682213301308
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.0250133988487872
-'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.0125647649582323
+'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.010680050214497454
 'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.0080366514130964
