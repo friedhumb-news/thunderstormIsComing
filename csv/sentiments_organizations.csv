@@ -1,37 +1,40 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,-0.16911764705882348,0.0,de,13.600000000000003
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.48351648351648346,0.0,de,9.100000000000001
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,4.6
+DWD,DWD,ORG,-0.15116279069767438,0.0,de,17.200000000000003
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.5596330275229358,0.0,de,10.900000000000002
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.09589041095890409,0.0,de,7.300000000000001
+GDV,GDV,ORG,0.0,0.0,de,4.2
 Aemet,Aemet,ORG,0.3783783783783784,0.0,de,3.6999999999999997
+AEMET,AEMET,ORG,0.35714285714285715,0.0,de,2.8
 AfD,AfD,ORG,0.7045454545454544,0.0,de,2.2
-AEMET,AEMET,ORG,0.0,0.0,de,1.9
-GEO,GEO,ORG,1.0526315789473684,0.0,de,1.9
+Social Media,Social Media,ORG,-0.7368421052631579,0.0,de,1.9
 AEMET!,AEMET!,ORG,0.0,0.0,de,1.9
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.3684210526315789,0.0,de,1.9
 esoc/ES…,esoc/ES…,ORG,0.0,0.0,de,1.9
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.3684210526315789,0.0,de,1.9
+GEO,GEO,ORG,1.0526315789473684,0.0,de,1.9
 CDU,CDU,ORG,0.0,0.0,de,1.8000000000000007
 Bayer,Bayer,ORG,0.0,0.0,de,1.1
-Grundlagenforsch…,Grundlagenforsch…,ORG,0.0,0.0,de,1.0
-Institute of Science and Technology Austria,Institute of Science and Technology Austria,ORG,0.0,0.0,de,1.0
-ISTA,ISTA,ORG,0.0,0.0,de,1.0
-Bonn…,Bonn…,ORG,-0.15000000000000002,0.0,de,1.0
-Tagesscha…,Tagesscha…,ORG,0.0,0.0,de,1.0
+VfL Wolfsburg,VfL Wolfsburg,ORG,0.0,0.0,de,1.0
 MissionenBlitz,MissionenBlitz,ORG,0.0,0.0,de,1.0
-Bundesliga,Bundesliga,ORG,0.0,0.0,de,1.0
 Drogeriemarktkette dm,Drogeriemarktkette dm,ORG,0.0,0.0,de,1.0
+ISTA,ISTA,ORG,0.0,0.0,de,1.0
 Selenskyj,Selenskyj,ORG,0.0,0.0,de,1.0
 Eintracht,Eintracht,ORG,0.0,0.0,de,1.0
-YouTuber,YouTuber,ORG,-1.0,0.0,de,1.0
-VfL Wolfsburg,VfL Wolfsburg,ORG,0.0,0.0,de,1.0
+Bundesliga,Bundesliga,ORG,0.0,0.0,de,1.0
+CDU-Politiker,CDU-Politiker,ORG,0.0,0.0,de,1.0
 ++ Thomas Gottschalk,++ Thomas Gottschalk,ORG,0.0,0.0,de,1.0
 Krebs ++ Der Showmaster,Krebs ++ Der Showmaster,ORG,0.0,0.0,de,1.0
 Zud…,Zud…,ORG,0.0,0.0,de,1.0
 Kopf“-YouTuber,Kopf“-YouTuber,ORG,0.0,0.0,de,1.0
-CDU-Politiker,CDU-Politiker,ORG,0.0,0.0,de,1.0
-Getty Images,Getty Images,ORG,0.0,0.0,de,1.0
-kündi…,kündi…,ORG,0.0,0.0,de,1.0
+Grundlagenforsch…,Grundlagenforsch…,ORG,0.0,0.0,de,1.0
+französische Verband,französische Verband,ORG,-1.0,0.0,de,1.0
+Deutschen Versicherungswirtschaft,Deutschen Versicherungswirtschaft,ORG,0.0,0.0,de,1.0
+Informationsdienstes Aldis/Blids deutschlandweit,Informationsdienstes Aldis/Blids deutschlandweit,ORG,0.0,0.0,de,1.0
+Informationsdienst Aldis/Blids,Informationsdienst Aldis/Blids,ORG,0.0,0.0,de,1.0
+Sens…,Sens…,ORG,0.0,0.0,de,1.0
+Institute of Science and Technology Austria,Institute of Science and Technology Austria,ORG,0.0,0.0,de,1.0
 BILD,BILD,ORG,-0.15000000000000002,0.0,de,1.0
-Bonner Polizei,Bonner Polizei,ORG,-0.43333333333333335,0.0,de,1.0
+Bonn…,Bonn…,ORG,-0.15000000000000002,0.0,de,1.0
+Tagesscha…,Tagesscha…,ORG,0.0,0.0,de,1.0
 Stadtbild-Deb…,Stadtbild-Deb…,ORG,1.0,0.0,de,1.0
 B…,B…,ORG,0.0,0.0,de,1.0
 katholi…,katholi…,ORG,0.0,0.0,de,1.0
@@ -47,6 +50,10 @@ Baden-Württemberg,Baden-Württemberg,ORG,0.0,0.0,de,1.0
 Bayern,Bayern,ORG,0.0,0.0,de,1.0
 Jogging-Ambitio…,Jogging-Ambitio…,ORG,0.0,0.0,de,1.0
 Union,Union,ORG,0.0,0.0,de,1.0
-untersch…,untersch…,ORG,0.0,0.0,de,1.0
+kündi…,kündi…,ORG,0.0,0.0,de,1.0
 au…,au…,ORG,0.0,0.0,de,1.0
-französische Verband,französische Verband,ORG,-1.0,0.0,de,1.0
+Bonner Polizei,Bonner Polizei,ORG,-0.43333333333333335,0.0,de,1.0
+untersch…,untersch…,ORG,0.0,0.0,de,1.0
+YouTuber,YouTuber,ORG,-1.0,0.0,de,1.0
+Getty Images,Getty Images,ORG,0.0,0.0,de,1.0
+Informationsdienstes Aldis/Blids,Informationsdienstes Aldis/Blids,ORG,0.0,0.0,de,1.0
