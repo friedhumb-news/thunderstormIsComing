@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,1,0.01025512161255
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0084903067314118
 'Blitz und Donner',de,Hazard,#ff0000,#ff0000,1,0.007905387715193
-'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.00588081479076258
-'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.0028724777692372
+'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.0058808147907625
+'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.00289165110385162
 'Ambosswolken',de,Causes,#00ffff,#00ffff,1,0.0011768902569856
 'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,8.269478074137574e-05
