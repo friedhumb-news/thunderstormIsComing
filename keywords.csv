@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1462078904954206
-'+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.061924234794297206
+'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.19059631328474388
+'+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.0619242347942972
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0470656646352942
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.0322785364976401
 'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.0212436613595943
