@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.0816130049118797
+'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.07842118826600683
 '+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.0756594211145666
-'Blitz und Donner',de,Hazard,#ff0000,#ff0000,2,0.07502601549657546
+'Blitz und Donner',de,Hazard,#ff0000,#ff0000,2,0.0750260154965754
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.0323428174794977
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,1,0.0299003741715989
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0256934128902423
