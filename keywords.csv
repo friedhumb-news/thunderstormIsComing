@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 '+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.0854782115775606
 'Ambosswolken',de,Causes,#00ffff,#00ffff,1,0.0832786216007913
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.0627399912342002
-'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.046577981567046935
+'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.040341359331989866
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,1,0.0299003741715989
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0256934128902423
 'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.0124014302000915
