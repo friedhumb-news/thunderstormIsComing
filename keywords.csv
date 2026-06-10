@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2121990826771576
-'+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.17556322058503446
-'Blitz und Donner',de,Hazard,#ff0000,#ff0000,2,0.0824417141466684
+'+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.1755632205850344
+'Blitz und Donner',de,Hazard,#ff0000,#ff0000,2,0.08729914429739541
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,2,0.0762715493582299
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.0495750681667095
 'Ambosswolken',de,Causes,#00ffff,#00ffff,1,0.043950002516373
