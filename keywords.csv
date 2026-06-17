@@ -5,6 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitz und Donner',de,Hazard,#ff0000,#ff0000,2,0.0872991442973954
 'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.0752476043061031
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.0495750681667095
+'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.029962208318161918
 'Ambosswolken',de,Causes,#00ffff,#00ffff,1,0.0234202175504372
-'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0198965039037199
-'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.00550262826175344
+'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.0055026282617534
