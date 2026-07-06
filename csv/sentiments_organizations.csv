@@ -1,310 +1,344 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,-0.12339279974284742,0.039376406300224855,de,207.40000000000083
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.10504201680672233,0.037348272642390185,de,142.8000000000004
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.11160235798499478,0.02947481243301182,de,62.19999999999993
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.05320512820512823,0.05769230769230772,de,25.999999999999986
-TTS-Player,TTS-Player,ORG,-0.1173184357541899,0.0,de,17.900000000000002
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,-0.07874015748031495,0.07874015748031495,de,12.700000000000003
-lnw,lnw,ORG,-0.09722222222222221,0.0,de,7.2
-Essen,Essen,ORG,-0.09722222222222221,0.0,de,7.2
+DWD,DWD,ORG,-0.1157699313437013,0.03642987249544612,de,237.90000000000103
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.10603309120258232,0.0373284907183211,de,165.20000000000056
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.1568126520681266,0.02676399026763992,de,68.49999999999996
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.051425030978934354,0.05576208178438665,de,26.899999999999984
+TTS-Player,TTS-Player,ORG,-0.11229946524064167,0.0,de,18.700000000000003
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,-0.0689655172413793,0.0689655172413793,de,14.500000000000004
+lby,lby,ORG,0.09589041095890409,0.0,de,7.300000000000001
 lhe,lhe,ORG,-0.1388888888888889,0.0,de,7.2
-lby,lby,ORG,0.10937499999999999,0.0,de,6.4
+Essen,Essen,ORG,-0.09722222222222221,0.0,de,7.2
+lnw,lnw,ORG,-0.09722222222222221,0.0,de,7.2
+Ecuador,Ecuador,ORG,0.48437499999999994,0.0,de,6.4
 lrs,lrs,ORG,0.06363636363636363,0.09090909090909091,de,5.5
 GDV,GDV,ORG,0.0,0.0,de,5.0
+Paraguay,Paraguay,ORG,0.0,0.0,de,4.6
+picture alliance,picture alliance,ORG,0.0,0.0,de,4.6
 Bodenfrost,Bodenfrost,ORG,-0.15217391304347827,0.0,de,4.6
 GEO,GEO,ORG,1.0869565217391306,0.0,de,4.6
-picture alliance,picture alliance,ORG,0.0,0.0,de,4.6
 Lufthansa,Lufthansa,ORG,-0.06521739130434784,0.0,de,4.6
 Rhein-Main,Rhein-Main,ORG,-1.0869565217391306,0.0,de,4.6
 D…,D…,ORG,0.0,0.0,de,4.5
 AfD,AfD,ORG,0.5921052631578948,0.0,de,3.8
-sa,sa,ORG,-0.2702702702702703,0.0,de,3.6999999999999997
-Aemet,Aemet,ORG,0.3783783783783784,0.0,de,3.6999999999999997
 Volksbank Mittelhessen,Volksbank Mittelhessen,ORG,0.7567567567567568,0.0,de,3.6999999999999997
 Hessen Gießen,Hessen Gießen,ORG,-1.0810810810810811,0.0,de,3.6999999999999997
-za…,za…,ORG,0.7567567567567568,0.0,de,3.6999999999999997
-sonn…,sonn…,ORG,0.0,0.0,de,3.6999999999999997
-WM-Auftakt,WM-Auftakt,ORG,-0.2702702702702703,0.0,de,3.6999999999999997
+Aemet,Aemet,ORG,0.3783783783783784,0.0,de,3.6999999999999997
+Auto,Auto,ORG,-0.8108108108108109,0.0,de,3.6999999999999997
+Deutschland,Deutschland,ORG,-0.28378378378378377,0.13513513513513514,de,3.6999999999999997
 DWD…,DWD…,ORG,0.0,0.0,de,3.6999999999999997
-DW…,DW…,ORG,0.0,0.0,de,3.6
+sa,sa,ORG,-0.2702702702702703,0.0,de,3.6999999999999997
+sonn…,sonn…,ORG,0.0,0.0,de,3.6999999999999997
+za…,za…,ORG,0.7567567567567568,0.0,de,3.6999999999999997
+WM-Mitgastgeber,WM-Mitgastgeber,ORG,0.7567567567567568,0.0,de,3.6999999999999997
+stern-Newsblog,stern-Newsblog,ORG,0.0,0.0,de,3.6999999999999997
+WM-Auftakt,WM-Auftakt,ORG,-0.2702702702702703,0.0,de,3.6999999999999997
 Kirche,Kirche,ORG,0.38888888888888884,0.0,de,3.6
+DW…,DW…,ORG,0.0,0.0,de,3.6
 SPD,SPD,ORG,0.588235294117647,0.0,de,3.4000000000000004
 AUA-Hagelflug,AUA-Hagelflug,ORG,0.0,0.0,de,3.4000000000000004
-Kunstverein Hannover,Kunstverein Hannover,ORG,0.0,0.0,de,2.8
-Formel 1,Formel 1,ORG,0.25,0.0,de,2.8
-Freistaats,Freistaats,ORG,0.5595238095238095,0.0,de,2.8
-W…,W…,ORG,0.0,0.0,de,2.8
-CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,2.8
-Einfamilienhaus +++ Gewitter,Einfamilienhaus +++ Gewitter,ORG,-1.0714285714285714,0.0,de,2.8
-ADAC,ADAC,ORG,0.35714285714285715,0.0,de,2.8
-Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,ORG,-0.25,0.0,de,2.8
+Deutschen Wetterdienste…,Deutschen Wetterdienste…,ORG,0.0,0.0,de,2.8
 WM-Generalprobe,WM-Generalprobe,ORG,0.25,0.0,de,2.8
-Deutschland,Deutschland,ORG,-0.125,0.17857142857142858,de,2.8
-Berliner S-Bahnverkehr,Berliner S-Bahnverkehr,ORG,0.0,0.0,de,2.8
-Auto,Auto,ORG,-0.7142857142857143,0.0,de,2.8
-stern-Newsblog,stern-Newsblog,ORG,0.0,0.0,de,2.8
+W…,W…,ORG,0.0,0.0,de,2.8
+Freistaats,Freistaats,ORG,0.5595238095238095,0.0,de,2.8
+Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,ORG,-0.25,0.0,de,2.8
 AEMET,AEMET,ORG,0.35714285714285715,0.0,de,2.8
+Berliner S-Bahnverkehr,Berliner S-Bahnverkehr,ORG,0.0,0.0,de,2.8
+Formel 1,Formel 1,ORG,0.25,0.0,de,2.8
+Kunstverein Hannover,Kunstverein Hannover,ORG,0.0,0.0,de,2.8
+Einfamilienhaus +++ Gewitter,Einfamilienhaus +++ Gewitter,ORG,-1.0714285714285714,0.0,de,2.8
+dpa,dpa,ORG,0.0,0.0,de,2.8
+ADAC,ADAC,ORG,0.35714285714285715,0.0,de,2.8
+CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,2.8
+S…,S…,ORG,0.0,0.0,de,2.7
 Hessen Frankfurt,Hessen Frankfurt,ORG,-0.7692307692307692,0.0,de,2.6
 AUTO,AUTO,ORG,0.0,0.0,de,2.6
 SC Freiburg,SC Freiburg,ORG,-0.2692307692307692,0.0,de,2.6
-Hessen Rüsselsheim,Hessen Rüsselsheim,ORG,0.3684210526315789,0.0,de,1.9
-Bun…,Bun…,ORG,0.0,0.0,de,1.9
-B…,B…,ORG,0.0,0.0,de,1.9
-Leerstand +++ Frankfurter Bahnhofsviertel,Leerstand +++ Frankfurter Bahnhofsviertel,ORG,0.3684210526315789,0.0,de,1.9
-Dienstagm…,Dienstagm…,ORG,0.0,0.0,de,1.9
-Tiernothilfe Schwalmstadt,Tiernothilfe Schwalmstadt,ORG,0.0,0.0,de,1.9
-A7 +++ Kletterer,A7 +++ Kletterer,ORG,-0.5263157894736842,0.0,de,1.9
-Brand +++ Jugendliche,Brand +++ Jugendliche,ORG,-0.6052631578947368,0.0,de,1.9
-Auffahrunfall +++ Brand,Auffahrunfall +++ Brand,ORG,0.3684210526315789,0.0,de,1.9
-Deutschen Wette…,Deutschen Wette…,ORG,0.0,0.0,de,1.9
-FIFA,FIFA,ORG,-1.0526315789473684,0.0,de,1.9
 Grüne,Grüne,ORG,-0.3684210526315789,0.0,de,1.9
-Bergla…,Bergla…,ORG,0.0,0.0,de,1.9
-Deutschen …,Deutschen …,ORG,0.0,0.0,de,1.9
-he…,he…,ORG,0.0,0.0,de,1.9
-dpa,dpa,ORG,0.0,0.0,de,1.9
-ver…,ver…,ORG,0.3684210526315789,0.0,de,1.9
+Brand +++ Jugendliche,Brand +++ Jugendliche,ORG,-0.6052631578947368,0.0,de,1.9
+Berlin/Potsdam,Berlin/Potsdam,ORG,0.3684210526315789,0.0,de,1.9
+Kabine,Kabine,ORG,0.0,0.0,de,1.9
+WM-Fans,WM-Fans,ORG,0.0,0.5263157894736842,de,1.9
 bew…,bew…,ORG,0.0,0.0,de,1.9
+he…,he…,ORG,0.0,0.0,de,1.9
+Deutschen …,Deutschen …,ORG,0.0,0.0,de,1.9
 Gewitter!,Gewitter!,ORG,0.0,0.0,de,1.9
 Deutsche Wetterdienst mit…,Deutsche Wetterdienst mit…,ORG,0.0,0.0,de,1.9
-NRW,NRW,ORG,0.2982456140350877,0.0,de,1.9
+Bergla…,Bergla…,ORG,0.0,0.0,de,1.9
+Deutschen Wette…,Deutschen Wette…,ORG,0.0,0.0,de,1.9
+Zürcher Letzigrund,Zürcher Letzigrund,ORG,0.0,0.0,de,1.9
++++,+++,ORG,-0.16842105263157892,0.0,de,1.9
 Deutsche…,Deutsche…,ORG,0.0,0.0,de,1.9
-Costa Rica,Costa Rica,ORG,0.3684210526315789,0.0,de,1.9
-YouTuber,YouTuber,ORG,-0.15789473684210528,0.0,de,1.9
-Neue Erdmännchen-Zuchtgruppe,Neue Erdmännchen-Zuchtgruppe,ORG,-0.5263157894736842,0.0,de,1.9
-Kabine,Kabine,ORG,0.0,0.0,de,1.9
-AEMET!,AEMET!,ORG,0.0,0.0,de,1.9
-FC Bayern,FC Bayern,ORG,0.0,0.0,de,1.9
-Wochenstart +++ Fußgängerin,Wochenstart +++ Fußgängerin,ORG,-1.0526315789473684,0.0,de,1.9
+NRW,NRW,ORG,0.2982456140350877,0.0,de,1.9
+ver…,ver…,ORG,0.3684210526315789,0.0,de,1.9
+Auffahrunfall +++ Brand,Auffahrunfall +++ Brand,ORG,0.3684210526315789,0.0,de,1.9
 Regionalleitstelle Nordost,Regionalleitstelle Nordost,ORG,0.0,0.0,de,1.9
-Social Media,Social Media,ORG,-0.7368421052631579,0.0,de,1.9
-WM-Fans,WM-Fans,ORG,0.0,0.5263157894736842,de,1.9
-Berlin/Potsdam,Berlin/Potsdam,ORG,0.3684210526315789,0.0,de,1.9
 +++ Liveblog,+++ Liveblog,ORG,-1.0526315789473684,0.0,de,1.9
-Hessen,Hessen,ORG,-1.0526315789473684,0.0,de,1.9
+GeoSphere Austria,GeoSphere Austria,ORG,0.3684210526315789,0.0,de,1.9
+Leerstand +++ Frankfurter Bahnhofsviertel,Leerstand +++ Frankfurter Bahnhofsviertel,ORG,0.3684210526315789,0.0,de,1.9
+Hessen Rüsselsheim,Hessen Rüsselsheim,ORG,0.3684210526315789,0.0,de,1.9
+Bun…,Bun…,ORG,0.0,0.0,de,1.9
+A7 +++ Kletterer,A7 +++ Kletterer,ORG,-0.5263157894736842,0.0,de,1.9
+Neue Erdmännchen-Zuchtgruppe,Neue Erdmännchen-Zuchtgruppe,ORG,-0.5263157894736842,0.0,de,1.9
+Dienstagm…,Dienstagm…,ORG,0.0,0.0,de,1.9
+FIFA,FIFA,ORG,-1.0526315789473684,0.0,de,1.9
+FC Bayern,FC Bayern,ORG,0.0,0.0,de,1.9
 vie…,vie…,ORG,0.3684210526315789,0.0,de,1.9
-esoc/ES…,esoc/ES…,ORG,0.0,0.0,de,1.9
+Costa Rica,Costa Rica,ORG,0.3684210526315789,0.0,de,1.9
+Wochenstart +++ Fußgängerin,Wochenstart +++ Fußgängerin,ORG,-1.0526315789473684,0.0,de,1.9
+d…,d…,ORG,-0.2631578947368421,0.0,de,1.9
+Hessen,Hessen,ORG,-1.0526315789473684,0.0,de,1.9
+Tiernothilfe Schwalmstadt,Tiernothilfe Schwalmstadt,ORG,0.0,0.0,de,1.9
 Wochenstart +++ Hanau,Wochenstart +++ Hanau,ORG,-1.0526315789473684,0.0,de,1.9
+DFB,DFB,ORG,0.0,0.0,de,1.9
+Social Media,Social Media,ORG,-0.7368421052631579,0.0,de,1.9
+esoc/ES…,esoc/ES…,ORG,0.0,0.0,de,1.9
+AEMET!,AEMET!,ORG,0.0,0.0,de,1.9
+B…,B…,ORG,0.0,0.0,de,1.9
+YouTuber,YouTuber,ORG,-0.15789473684210528,0.0,de,1.9
 CDU,CDU,ORG,0.0,0.0,de,1.8000000000000007
-FC Schalke 04,FC Schalke 04,ORG,0.4722222222222222,0.0,de,1.8
-SC Verl,SC Verl,ORG,0.0,0.0,de,1.8
 Regierungsbank,Regierungsbank,ORG,-1.1111111111111112,0.0,de,1.8
-BVB,BVB,ORG,-0.2777777777777778,0.2777777777777778,de,1.8
-FC Schalke 04,FC Schalke 04,ORG,-1.1111111111111112,0.0,de,1.8
 https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1.8
-Hansa Rostock,Hansa Rostock,ORG,0.0,0.0,de,1.8
-Frankfurter Osthafen +++ ,Frankfurter Osthafen +++ ,ORG,-0.5555555555555556,0.0,de,1.8
 SPD-Mitglied,SPD-Mitglied,ORG,1.1111111111111112,0.0,de,1.8
+FC Schalke 04,FC Schalke 04,ORG,0.4722222222222222,0.0,de,1.8
+FC Schalke 04,FC Schalke 04,ORG,-1.1111111111111112,0.0,de,1.8
+Hansa Rostock,Hansa Rostock,ORG,0.0,0.0,de,1.8
+SC Verl,SC Verl,ORG,0.0,0.0,de,1.8
+Frankfurter Osthafen +++ ,Frankfurter Osthafen +++ ,ORG,-0.5555555555555556,0.0,de,1.8
+BVB,BVB,ORG,-0.2777777777777778,0.2777777777777778,de,1.8
 Bayer,Bayer,ORG,0.0,0.0,de,1.1
-brennt +++  Liveblog,brennt +++  Liveblog,ORG,-1.0,0.0,de,1.0
-Alpenverein,Alpenverein,ORG,-0.35,0.0,de,1.0
-Bein +++ Leerstehendes Haus,Bein +++ Leerstehendes Haus,ORG,-1.0,0.0,de,1.0
-klitsc…,klitsc…,ORG,0.0,0.0,de,1.0
-Thüri…,Thüri…,ORG,0.0,0.0,de,1.0
-Wochenstart …,Wochenstart …,ORG,0.0,0.0,de,1.0
-den Grünen,den Grünen,ORG,0.0,0.0,de,1.0
-Obe…,Obe…,ORG,-0.7,0.0,de,1.0
-no…,no…,ORG,0.7,0.0,de,1.0
-Gewitt…,Gewitt…,ORG,0.7,0.0,de,1.0
-Deutsche Wetterdienst mit …,Deutsche Wetterdienst mit …,ORG,0.0,0.0,de,1.0
-wic…,wic…,ORG,-0.35,0.0,de,1.0
-wi…,wi…,ORG,0.0,0.0,de,1.0
-Branden…,Branden…,ORG,-0.7,0.0,de,1.0
-U-Haft +++ Liveblog zu,U-Haft +++ Liveblog zu,ORG,-1.0,0.0,de,1.0
-Sudetendeutsche Tag Prag,Sudetendeutsche Tag Prag,ORG,-1.0,0.0,de,1.0
-Sudetendeutschen,Sudetendeutschen,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst mitte…,Deutsche Wetterdienst mitte…,ORG,-0.7,0.0,de,1.0
-Donnerstag vorvergangener Woche,Donnerstag vorvergangener Woche,ORG,1.0,0.0,de,1.0
-Potzblitz!,Potzblitz!,ORG,0.0,0.0,de,1.0
-Einsat…,Einsat…,ORG,-0.7,0.0,de,1.0
-teilwe…,teilwe…,ORG,0.0,0.0,de,1.0
-A7 +++ Jungbulle,A7 +++ Jungbulle,ORG,-1.0,0.0,de,1.0
-Stra…,Stra…,ORG,0.0,0.0,de,1.0
-U-Haft +++ Zwölfjähriger,U-Haft +++ Zwölfjähriger,ORG,-0.15000000000000002,0.0,de,1.0
-Polizeiauto,Polizeiauto,ORG,-0.15000000000000002,0.0,de,1.0
-Wetteraussichten für di…,Wetteraussichten für di…,ORG,0.0,0.0,de,1.0
-be…,be…,ORG,0.7,0.0,de,1.0
-Influencer-Welt,Influencer-Welt,ORG,0.7,0.0,de,1.0
-Geosphere Austria am Sonntag,Geosphere Austria am Sonntag,ORG,0.0,0.0,de,1.0
-Österreichische Hagelversicherung,Österreichische Hagelversicherung,ORG,0.7,0.0,de,1.0
-Wettertrend,Wettertrend,ORG,0.0,0.0,de,1.0
-Mais,Mais,ORG,0.0,0.0,de,1.0
-Hessen +++ Buseck,Hessen +++ Buseck,ORG,-1.0,0.0,de,1.0
-ÖHV,ÖHV,ORG,0.7,0.0,de,1.0
-VfL Wolfsburg,VfL Wolfsburg,ORG,0.0,0.0,de,1.0
-TauffeierSchwere,TauffeierSchwere,ORG,-0.35,0.0,de,1.0
-Smart Repair,Smart Repair,ORG,0.7,0.0,de,1.0
+erwart…,erwart…,ORG,0.0,0.0,de,1.0
+Deutsche Wetterd…,Deutsche Wetterd…,ORG,0.0,0.0,de,1.0
+Jogging-Ambitio…,Jogging-Ambitio…,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst …,Deutsche Wetterdienst …,ORG,0.0,0.0,de,1.0
+XXL-WM,XXL-WM,ORG,0.0,0.0,de,1.0
+Union,Union,ORG,0.0,0.0,de,1.0
+kündi…,kündi…,ORG,0.0,0.0,de,1.0
+FIFA…,FIFA…,ORG,0.0,0.0,de,1.0
+au…,au…,ORG,0.0,0.0,de,1.0
+Rüsselsheim +++,Rüsselsheim +++,ORG,0.7,0.0,de,1.0
+Bonner Polizei,Bonner Polizei,ORG,-0.43333333333333335,0.0,de,1.0
+Frankfurter WG,Frankfurter WG,ORG,0.7,0.0,de,1.0
++++  Liveblog,+++  Liveblog,ORG,0.7,0.0,de,1.0
+Unwetter-Warnung zur WM-Eröffnung,Unwetter-Warnung zur WM-Eröffnung,ORG,0.0,0.0,de,1.0
+Leipzig,Leipzig,ORG,0.0,0.0,de,1.0
+Sachsen-Anhal…,Sachsen-Anhal…,ORG,0.0,0.0,de,1.0
+Wet…,Wet…,ORG,0.0,0.0,de,1.0
+Bayern,Bayern,ORG,0.0,0.0,de,1.0
+Baden-Württemberg,Baden-Württemberg,ORG,0.0,0.0,de,1.0
+CSU,CSU,ORG,0.0,0.0,de,1.0
+Rüsselsheim +++  Liveblog,Rüsselsheim +++  Liveblog,ORG,0.0,0.0,de,1.0
 TV-Abende,TV-Abende,ORG,0.0,0.0,de,1.0
-Rot,Rot,ORG,0.0,0.0,de,1.0
+WM-Eröffnungsspiel,WM-Eröffnungsspiel,ORG,0.0,0.0,de,1.0
+Wo…,Wo…,ORG,0.0,0.0,de,1.0
+Chaos,Chaos,ORG,0.0,0.0,de,1.0
+TauffeierSchwere,TauffeierSchwere,ORG,-0.35,0.0,de,1.0
+U-Haft +++ Liveblog zu,U-Haft +++ Liveblog zu,ORG,-1.0,0.0,de,1.0
+Branden…,Branden…,ORG,-0.7,0.0,de,1.0
+Gewitt…,Gewitt…,ORG,0.7,0.0,de,1.0
+Thüri…,Thüri…,ORG,0.0,0.0,de,1.0
+Alpenverein,Alpenverein,ORG,-0.35,0.0,de,1.0
+wic…,wic…,ORG,-0.35,0.0,de,1.0
+klitsc…,klitsc…,ORG,0.0,0.0,de,1.0
+Grundlagenforsch…,Grundlagenforsch…,ORG,0.0,0.0,de,1.0
+Wochenstart …,Wochenstart …,ORG,0.0,0.0,de,1.0
+Bonn…,Bonn…,ORG,-0.15000000000000002,0.0,de,1.0
+Obe…,Obe…,ORG,-0.7,0.0,de,1.0
+Stra…,Stra…,ORG,0.0,0.0,de,1.0
+Tagesscha…,Tagesscha…,ORG,0.0,0.0,de,1.0
+Kaltfront,Kaltfront,ORG,0.0,0.0,de,1.0
+Schleswi…,Schleswi…,ORG,0.0,0.0,de,1.0
+Getty Images,Getty Images,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdien…,Deutsche Wetterdien…,ORG,0.0,0.0,de,1.0
+weiterhi…,weiterhi…,ORG,0.0,0.0,de,1.0
+Regenschauer bes,Regenschauer bes,ORG,0.0,0.0,de,1.0
+Grünen,Grünen,ORG,0.0,0.0,de,1.0
+BILD,BILD,ORG,-0.15000000000000002,0.0,de,1.0
+Donnerstag!,Donnerstag!,ORG,0.0,0.0,de,1.0
 sc…,sc…,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst Sturmböen,Deutsche Wetterdienst Sturmböen,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdi…,Deutsche Wetterdi…,ORG,0.0,0.0,de,1.0
++++Jetzt,+++Jetzt,ORG,0.0,0.0,de,1.0
+Rot,Rot,ORG,0.0,0.0,de,1.0
+Brown +++,Brown +++,ORG,0.0,0.0,de,1.0
+EPZ,EPZ,ORG,0.0,0.0,de,1.0
+deutsche WM-Aus,deutsche WM-Aus,ORG,0.0,0.0,de,1.0
+Deutsche We…,Deutsche We…,ORG,0.0,0.0,de,1.0
+Wasserverbrauchs +++ Bensheim,Wasserverbrauchs +++ Bensheim,ORG,-1.0,0.0,de,1.0
+Reuters,Reuters,ORG,0.0,0.0,de,1.0
+deutsche Nationalmannschaft,deutsche Nationalmannschaft,ORG,0.0,0.0,de,1.0
+katholi…,katholi…,ORG,0.0,0.0,de,1.0
+Public Viewin,Public Viewin,ORG,0.0,0.0,de,1.0
+Tiroler Po…,Tiroler Po…,ORG,0.0,0.0,de,1.0
+DWD-Bilanz,DWD-Bilanz,ORG,0.0,0.0,de,1.0
+Deutschland +++ 26 Menschen,Deutschland +++ 26 Menschen,ORG,0.0,0.0,de,1.0
+Deutschland +++  ,Deutschland +++  ,ORG,0.0,0.0,de,1.0
+Bundestag,Bundestag,ORG,0.0,0.0,de,1.0
+Verkehrsverbundes Mittelsachsen,Verkehrsverbundes Mittelsachsen,ORG,0.0,0.0,de,1.0
+deutschen Nationalelf,deutschen Nationalelf,ORG,0.0,0.0,de,1.0
+den Grünen,den Grünen,ORG,0.0,0.0,de,1.0
+Japan,Japan,ORG,0.0,0.0,de,1.0
+Butzbach +++ Liveblog,Butzbach +++ Liveblog,ORG,0.7,0.0,de,1.0
+Blitz-Informationsdienst Aldis/Blids,Blitz-Informationsdienst Aldis/Blids,ORG,0.0,0.0,de,1.0
+Tag Sonne,Tag Sonne,ORG,0.0,0.0,de,1.0
+Deutschland-Schrec…,Deutschland-Schrec…,ORG,0.0,0.0,de,1.0
+Stadtbild-Deb…,Stadtbild-Deb…,ORG,1.0,0.0,de,1.0
+Betreiberges…,Betreiberges…,ORG,0.0,0.0,de,1.0
+Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1.0
+Buckli…,Buckli…,ORG,0.0,0.0,de,1.0
+Foo Fighters,Foo Fighters,ORG,0.0,0.0,de,1.0
+Bundesweit,Bundesweit,ORG,0.0,0.0,de,1.0
+Mexiko,Mexiko,ORG,0.0,0.0,de,1.0
+Berliner Philharmoniker,Berliner Philharmoniker,ORG,0.0,0.0,de,1.0
+Nachhol…,Nachhol…,ORG,0.0,0.0,de,1.0
+TU Wien,TU Wien,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst…,Deutsche Wetterdienst…,ORG,0.7,0.0,de,1.0
 Tuchels Team,Tuchels Team,ORG,1.0,0.0,de,1.0
 WM-Start,WM-Start,ORG,0.0,0.0,de,1.0
 Trump,Trump,ORG,0.0,0.0,de,1.0
-Brown +++,Brown +++,ORG,0.0,0.0,de,1.0
+Mais,Mais,ORG,0.0,0.0,de,1.0
 Bundesländ…,Bundesländ…,ORG,0.7,0.0,de,1.0
 WM-Reportage,WM-Reportage,ORG,0.0,0.0,de,1.0
 Temperat…,Temperat…,ORG,0.0,0.0,de,1.0
 Nordrhein-Westfal…,Nordrhein-Westfal…,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdienst warn…,Deutsche Wetterdienst warn…,ORG,0.0,0.0,de,1.0
-d…,d…,ORG,-0.5,0.0,de,1.0
-Schleswi…,Schleswi…,ORG,0.0,0.0,de,1.0
+Smart Repair,Smart Repair,ORG,0.7,0.0,de,1.0
+Partei,Partei,ORG,0.0,0.0,de,1.0
 Nachmi…,Nachmi…,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst…,Deutsche Wetterdienst…,ORG,0.7,0.0,de,1.0
-Stadtbild-Deb…,Stadtbild-Deb…,ORG,1.0,0.0,de,1.0
+Wasserabf…,Wasserabf…,ORG,0.0,0.0,de,1.0
+VHS-Kurse,VHS-Kurse,ORG,0.0,0.0,de,1.0
 S-Bahnverkehr,S-Bahnverkehr,ORG,0.0,0.0,de,1.0
+Frankreich-Spiel,Frankreich-Spiel,ORG,0.7,0.0,de,1.0
+norwegische Nationalmannschaft,norwegische Nationalmannschaft,ORG,0.0,0.0,de,1.0
+Gruppe I,Gruppe I,ORG,0.0,0.0,de,1.0
+Norwe…,Norwe…,ORG,0.0,0.0,de,1.0
 di…,di…,ORG,0.15000000000000002,0.0,de,1.0
 Hagel!,Hagel!,ORG,0.0,0.0,de,1.0
 Tornado!,Tornado!,ORG,0.0,0.0,de,1.0
 weiterlesenKansas City,weiterlesenKansas City,ORG,0.0,0.0,de,1.0
 Unwetter-Warnung,Unwetter-Warnung,ORG,0.0,0.0,de,1.0
+be…,be…,ORG,0.7,0.0,de,1.0
 Berlin,Berlin,ORG,0.0,0.0,de,1.0
-VHS-Kurse,VHS-Kurse,ORG,0.0,0.0,de,1.0
-Nachhol…,Nachhol…,ORG,0.0,0.0,de,1.0
-Rüsselsheim +++  Liveblog,Rüsselsheim +++  Liveblog,ORG,0.0,0.0,de,1.0
-Wet…,Wet…,ORG,0.0,0.0,de,1.0
-Sachsen-Anhal…,Sachsen-Anhal…,ORG,0.0,0.0,de,1.0
-Leipzig,Leipzig,ORG,0.0,0.0,de,1.0
-katholi…,katholi…,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdien…,Deutsche Wetterdien…,ORG,0.0,0.0,de,1.0
-weiterhi…,weiterhi…,ORG,0.0,0.0,de,1.0
-Regenschauer bes,Regenschauer bes,ORG,0.0,0.0,de,1.0
-S…,S…,ORG,0.0,0.0,de,1.0
-Grünen,Grünen,ORG,0.0,0.0,de,1.0
-Donnerstag!,Donnerstag!,ORG,0.0,0.0,de,1.0
-Wo…,Wo…,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst Sturmböen,Deutsche Wetterdienst Sturmböen,ORG,0.0,0.0,de,1.0
-Spaziergä…,Spaziergä…,ORG,0.7,0.0,de,1.0
-Deutsche Wetterdi…,Deutsche Wetterdi…,ORG,0.0,0.0,de,1.0
-+++Jetzt,+++Jetzt,ORG,0.0,0.0,de,1.0
-Kaltfront,Kaltfront,ORG,0.0,0.0,de,1.0
-Chaos,Chaos,ORG,0.0,0.0,de,1.0
-WM-Eröffnungsspiel,WM-Eröffnungsspiel,ORG,0.0,0.0,de,1.0
-XXL-WM,XXL-WM,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst …,Deutsche Wetterdienst …,ORG,0.0,0.0,de,1.0
-Deutsche Wetterd…,Deutsche Wetterd…,ORG,0.0,0.0,de,1.0
-FIFA…,FIFA…,ORG,0.0,0.0,de,1.0
-GeoSphere Austria,GeoSphere Austria,ORG,0.7,0.0,de,1.0
-erwart…,erwart…,ORG,0.0,0.0,de,1.0
-Rüsselsheim +++,Rüsselsheim +++,ORG,0.7,0.0,de,1.0
-Frankfurter WG,Frankfurter WG,ORG,0.7,0.0,de,1.0
-+++  Liveblog,+++  Liveblog,ORG,0.7,0.0,de,1.0
-Unwetter-Warnung zur WM-Eröffnung,Unwetter-Warnung zur WM-Eröffnung,ORG,0.0,0.0,de,1.0
-Bewölkun…,Bewölkun…,ORG,0.0,0.0,de,1.0
-Energiegenossenschaft +++ Schüsse,Energiegenossenschaft +++ Schüsse,ORG,-1.0,0.0,de,1.0
-Deutschem Wetterdienst…,Deutschem Wetterdienst…,ORG,0.0,0.0,de,1.0
-Oettle!,Oettle!,ORG,0.0,0.0,de,1.0
-Technischen Universität,Technischen Universität,ORG,1.0,0.0,de,1.0
-TU,TU,ORG,1.0,0.0,de,1.0
-Die Grünen,Die Grünen,ORG,-0.7,0.0,de,1.0
-Ländle!,Ländle!,ORG,0.0,0.0,de,1.0
-ents…,ents…,ORG,0.0,0.0,de,1.0
-+++ Özdemir,+++ Özdemir,ORG,0.0,0.0,de,1.0
-AfD-Spitzenkandidat,AfD-Spitzenkandidat,ORG,0.0,0.0,de,1.0
-Landtagswahl in Baden-Württemberg,Landtagswahl in Baden-Württemberg,ORG,0.0,0.0,de,1.0
-MissionenBlitz,MissionenBlitz,ORG,0.0,0.0,de,1.0
-ISTA,ISTA,ORG,0.0,0.0,de,1.0
-mitteil…,mitteil…,ORG,-0.7,0.0,de,1.0
+Hessen +++ Buseck,Hessen +++ Buseck,ORG,-1.0,0.0,de,1.0
 Ländl…,Ländl…,ORG,0.0,0.0,de,1.0
-Deutschen Wetterdienste…,Deutschen Wetterdienste…,ORG,0.0,0.0,de,1.0
-Institute of Science and Technology Austria,Institute of Science and Technology Austria,ORG,0.0,0.0,de,1.0
-+++,+++,ORG,-0.31999999999999995,0.0,de,1.0
-Ei… +++,Ei… +++,ORG,-0.31999999999999995,0.0,de,1.0
-Gegentor-Hagel,Gegentor-Hagel,ORG,0.7,0.0,de,1.0
-KRC Genk,KRC Genk,ORG,0.7,0.0,de,1.0
-REUTERS,REUTERS,ORG,-0.7,0.0,de,1.0
-demnac…,demnac…,ORG,0.0,0.0,de,1.0
-Te…,Te…,ORG,0.0,0.0,de,1.0
-Wetterchaos!,Wetterchaos!,ORG,0.0,0.0,de,1.0
-+++Live-Ticker,+++Live-Ticker,ORG,0.0,0.0,de,1.0
-"Mecklenburg-Vorpommern
-+++Live-Ticker","Mecklenburg-Vorpommern
-+++Live-Ticker",ORG,0.0,0.0,de,1.0
-Grundlagenforsch…,Grundlagenforsch…,ORG,0.0,0.0,de,1.0
-Centre for Ecology &amp,Centre for Ecology &amp,ORG,1.0,0.0,de,1.0
-Merz +++,Merz +++,ORG,0.7,0.0,de,1.0
-Schneeschauer…,Schneeschauer…,ORG,0.0,0.0,de,1.0
-Parlament +++ SPD,Parlament +++ SPD,ORG,0.7,0.0,de,1.0
-Krebs ++ Der Showmaster,Krebs ++ Der Showmaster,ORG,0.0,0.0,de,1.0
-Zud…,Zud…,ORG,0.0,0.0,de,1.0
-Kopf“-YouTuber,Kopf“-YouTuber,ORG,0.0,0.0,de,1.0
-CDU-Politiker,CDU-Politiker,ORG,0.0,0.0,de,1.0
-französische Verband,französische Verband,ORG,-1.0,0.0,de,1.0
-Deutschen Versicherungswirtschaft,Deutschen Versicherungswirtschaft,ORG,0.0,0.0,de,1.0
-Bundesliga,Bundesliga,ORG,0.0,0.0,de,1.0
-Informationsdienstes Aldis/Blids deutschlandweit,Informationsdienstes Aldis/Blids deutschlandweit,ORG,0.0,0.0,de,1.0
-Informationsdienst Aldis/Blids,Informationsdienst Aldis/Blids,ORG,0.0,0.0,de,1.0
-Sens…,Sens…,ORG,0.0,0.0,de,1.0
-Informationsdienstes Aldis/Blids,Informationsdienstes Aldis/Blids,ORG,0.0,0.0,de,1.0
-ei…,ei…,ORG,0.0,0.0,de,1.0
-Deutschen Gesellschaft für Allgemeinmedizin und Familienmedizin,Deutschen Gesellschaft für Allgemeinmedizin und Familienmedizin,ORG,0.0,0.0,de,1.0
-DEGAM,DEGAM,ORG,0.0,0.0,de,1.0
-Eintracht,Eintracht,ORG,0.0,0.0,de,1.0
-Selenskyj,Selenskyj,ORG,0.0,0.0,de,1.0
-Notsituation,Notsituation,ORG,0.7,0.0,de,1.0
-Bayer Markus Söder,Bayer Markus Söder,ORG,0.0,0.0,de,1.0
-Hesse Boris Rhein,Hesse Boris Rhein,ORG,0.0,0.0,de,1.0
-Drogeriemarktkette dm,Drogeriemarktkette dm,ORG,0.0,0.0,de,1.0
-angekündi…,angekündi…,ORG,0.7,0.0,de,1.0
-Rosenmontag,Rosenmontag,ORG,-1.0,0.0,de,1.0
-Infografik19.02.2…,Infografik19.02.2…,ORG,0.0,0.0,de,1.0
-Hochw…,Hochw…,ORG,0.7,0.0,de,1.0
-Meine christdemokratische Partei Deutschlands,Meine christdemokratische Partei Deutschlands,ORG,0.7,0.0,de,1.0
-Bonn…,Bonn…,ORG,-0.15000000000000002,0.0,de,1.0
-Karlsruher SC,Karlsruher SC,ORG,0.85,0.0,de,1.0
-Bayern-Team,Bayern-Team,ORG,0.0,0.0,de,1.0
-au…,au…,ORG,0.0,0.0,de,1.0
-Bahnhofsviertel +++ Fast,Bahnhofsviertel +++ Fast,ORG,-1.0,0.0,de,1.0
-Hagel +++ ,Hagel +++ ,ORG,-1.0,0.0,de,1.0
-Sonne,Sonne,ORG,1.0,0.0,de,1.0
-kündi…,kündi…,ORG,0.0,0.0,de,1.0
-Union,Union,ORG,0.0,0.0,de,1.0
-Jogging-Ambitio…,Jogging-Ambitio…,ORG,0.0,0.0,de,1.0
-Deutschen…,Deutschen…,ORG,0.0,0.0,de,1.0
-Bayern,Bayern,ORG,0.0,0.0,de,1.0
-Baden-Württemberg,Baden-Württemberg,ORG,0.0,0.0,de,1.0
-Luftmass…,Luftmass…,ORG,0.0,0.0,de,1.0
-CSU,CSU,ORG,0.0,0.0,de,1.0
-EPZ,EPZ,ORG,0.0,0.0,de,1.0
-TU Wien,TU Wien,ORG,0.0,0.0,de,1.0
-Partei,Partei,ORG,0.0,0.0,de,1.0
-++ Thomas Gottschalk,++ Thomas Gottschalk,ORG,0.0,0.0,de,1.0
-Gießen,Gießen,ORG,-1.0,0.0,de,1.0
-Rhein… Gießen,Rhein… Gießen,ORG,-1.0,0.0,de,1.0
-Wasserabf…,Wasserabf…,ORG,0.0,0.0,de,1.0
-Opel-Zoo +,Opel-Zoo +,ORG,-1.0,0.0,de,1.0
-Wochenstart +++ Liveblog,Wochenstart +++ Liveblog,ORG,-1.0,0.0,de,1.0
-örtl…,örtl…,ORG,0.0,0.0,de,1.0
-Missbrauchs +++ Liveblog,Missbrauchs +++ Liveblog,ORG,-1.0,0.0,de,1.0
-Blitzschutz und Überspannungsschutz,Blitzschutz und Überspannungsschutz,ORG,1.0,0.0,de,1.0
-Paris Saint-Germain,Paris Saint-Germain,ORG,0.0,0.0,de,1.0
-Paris Saint-Germain wurd,Paris Saint-Germain wurd,ORG,0.0,0.0,de,1.0
-untersch…,untersch…,ORG,0.0,0.0,de,1.0
-Nachkriegsz…,Nachkriegsz…,ORG,0.0,0.0,de,1.0
-Schalke,Schalke,ORG,-1.0,0.0,de,1.0
-Bonner Polizei,Bonner Polizei,ORG,-0.43333333333333335,0.0,de,1.0
-Liga,Liga,ORG,0.0,0.0,de,1.0
-Tagesscha…,Tagesscha…,ORG,0.0,0.0,de,1.0
-Bilanz für Berlin,Bilanz für Berlin,ORG,0.0,0.0,de,1.0
-Kfz-Versicherung,Kfz-Versicherung,ORG,0.0,0.0,de,1.0
-Gesamtverbandes der Versicherer,Gesamtverbandes der Versicherer,ORG,0.0,0.0,de,1.0
-Deutschen Wetterdiensts…,Deutschen Wetterdiensts…,ORG,0.0,0.0,de,1.0
-unbescha…,unbescha…,ORG,0.0,0.0,de,1.0
-Getty Images,Getty Images,ORG,0.0,0.0,de,1.0
-Pr…,Pr…,ORG,0.0,0.0,de,1.0
+ÖHV,ÖHV,ORG,0.7,0.0,de,1.0
+Österreichische Hagelversicherung,Österreichische Hagelversicherung,ORG,0.7,0.0,de,1.0
 Son…,Son…,ORG,0.0,0.0,de,1.0
 ZUMAPRESS.com,ZUMAPRESS.com,ORG,0.0,0.0,de,1.0
 Motörhead,Motörhead,ORG,-0.7,0.0,de,1.0
 Wetterlag…,Wetterlag…,ORG,0.0,0.0,de,1.0
 Gewit…,Gewit…,ORG,0.0,0.0,de,1.0
+Parlament +++ SPD,Parlament +++ SPD,ORG,0.7,0.0,de,1.0
+Meine christdemokratische Partei Deutschlands,Meine christdemokratische Partei Deutschlands,ORG,0.7,0.0,de,1.0
+Hochw…,Hochw…,ORG,0.7,0.0,de,1.0
 Deutsche Wetterdienst mit,Deutsche Wetterdienst mit,ORG,0.0,0.0,de,1.0
 Fractal Design,Fractal Design,ORG,0.0,0.0,de,1.0
 PC-Gehäuse,PC-Gehäuse,ORG,0.0,0.0,de,1.0
 Versicherungsbranche,Versicherungsbranche,ORG,0.0,0.0,de,1.0
 Schadenbilanz…,Schadenbilanz…,ORG,0.0,0.0,de,1.0
+Infografik19.02.2…,Infografik19.02.2…,ORG,0.0,0.0,de,1.0
 Versicher…,Versicher…,ORG,0.0,0.0,de,1.0
 Wiesbaden +++ Liveblog,Wiesbaden +++ Liveblog,ORG,0.0,0.0,de,1.0
-BILD,BILD,ORG,-0.15000000000000002,0.0,de,1.0
+Rosenmontag,Rosenmontag,ORG,-1.0,0.0,de,1.0
+angekündi…,angekündi…,ORG,0.7,0.0,de,1.0
 Rhein-Main-Liveblog,Rhein-Main-Liveblog,ORG,0.0,0.0,de,1.0
 Polizei,Polizei,ORG,0.0,0.0,de,1.0
 Hagel +++ Siebzehnjährige,Hagel +++ Siebzehnjährige,ORG,-1.0,0.0,de,1.0
+Nachkriegsz…,Nachkriegsz…,ORG,0.0,0.0,de,1.0
+Hesse Boris Rhein,Hesse Boris Rhein,ORG,0.0,0.0,de,1.0
+Bayer Markus Söder,Bayer Markus Söder,ORG,0.0,0.0,de,1.0
 Bundeswehr,Bundeswehr,ORG,-1.0,0.0,de,1.0
+Bahnhofsviertel +++ Fast,Bahnhofsviertel +++ Fast,ORG,-1.0,0.0,de,1.0
+Hagel +++ ,Hagel +++ ,ORG,-1.0,0.0,de,1.0
+Pr…,Pr…,ORG,0.0,0.0,de,1.0
+Merz +++,Merz +++,ORG,0.7,0.0,de,1.0
+unbescha…,unbescha…,ORG,0.0,0.0,de,1.0
+"Mecklenburg-Vorpommern
++++Live-Ticker","Mecklenburg-Vorpommern
++++Live-Ticker",ORG,0.0,0.0,de,1.0
+Ei… +++,Ei… +++,ORG,-0.31999999999999995,0.0,de,1.0
+Landtagswahl in Baden-Württemberg,Landtagswahl in Baden-Württemberg,ORG,0.0,0.0,de,1.0
+AfD-Spitzenkandidat,AfD-Spitzenkandidat,ORG,0.0,0.0,de,1.0
+Gegentor-Hagel,Gegentor-Hagel,ORG,0.7,0.0,de,1.0
++++ Özdemir,+++ Özdemir,ORG,0.0,0.0,de,1.0
+KRC Genk,KRC Genk,ORG,0.7,0.0,de,1.0
+REUTERS,REUTERS,ORG,-0.7,0.0,de,1.0
+demnac…,demnac…,ORG,0.0,0.0,de,1.0
+ents…,ents…,ORG,0.0,0.0,de,1.0
+Te…,Te…,ORG,0.0,0.0,de,1.0
+Wetterchaos!,Wetterchaos!,ORG,0.0,0.0,de,1.0
++++Live-Ticker,+++Live-Ticker,ORG,0.0,0.0,de,1.0
+Ländle!,Ländle!,ORG,0.0,0.0,de,1.0
+Deutschen Wetterdiensts…,Deutschen Wetterdiensts…,ORG,0.0,0.0,de,1.0
+Die Grünen,Die Grünen,ORG,-0.7,0.0,de,1.0
+TU,TU,ORG,1.0,0.0,de,1.0
+Technischen Universität,Technischen Universität,ORG,1.0,0.0,de,1.0
+Schneeschauer…,Schneeschauer…,ORG,0.0,0.0,de,1.0
+Karlsruher SC,Karlsruher SC,ORG,0.85,0.0,de,1.0
+Schalke,Schalke,ORG,-1.0,0.0,de,1.0
+Centre for Ecology &amp,Centre for Ecology &amp,ORG,1.0,0.0,de,1.0
+Liga,Liga,ORG,0.0,0.0,de,1.0
+Oettle!,Oettle!,ORG,0.0,0.0,de,1.0
+Bilanz für Berlin,Bilanz für Berlin,ORG,0.0,0.0,de,1.0
+Kfz-Versicherung,Kfz-Versicherung,ORG,0.0,0.0,de,1.0
+Gesamtverbandes der Versicherer,Gesamtverbandes der Versicherer,ORG,0.0,0.0,de,1.0
+Notsituation,Notsituation,ORG,0.7,0.0,de,1.0
+Sonne,Sonne,ORG,1.0,0.0,de,1.0
+DEGAM,DEGAM,ORG,0.0,0.0,de,1.0
+A7 +++ Jungbulle,A7 +++ Jungbulle,ORG,-1.0,0.0,de,1.0
+Spaziergä…,Spaziergä…,ORG,0.7,0.0,de,1.0
+Bewölkun…,Bewölkun…,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst mit …,Deutsche Wetterdienst mit …,ORG,0.0,0.0,de,1.0
+no…,no…,ORG,0.7,0.0,de,1.0
+Selenskyj,Selenskyj,ORG,0.0,0.0,de,1.0
+Bein +++ Leerstehendes Haus,Bein +++ Leerstehendes Haus,ORG,-1.0,0.0,de,1.0
+brennt +++  Liveblog,brennt +++  Liveblog,ORG,-1.0,0.0,de,1.0
+Drogeriemarktkette dm,Drogeriemarktkette dm,ORG,0.0,0.0,de,1.0
+Wettertrend,Wettertrend,ORG,0.0,0.0,de,1.0
+Geosphere Austria am Sonntag,Geosphere Austria am Sonntag,ORG,0.0,0.0,de,1.0
+MissionenBlitz,MissionenBlitz,ORG,0.0,0.0,de,1.0
+Wetteraussichten für di…,Wetteraussichten für di…,ORG,0.0,0.0,de,1.0
+Potzblitz!,Potzblitz!,ORG,0.0,0.0,de,1.0
+Eintracht,Eintracht,ORG,0.0,0.0,de,1.0
+Donnerstag vorvergangener Woche,Donnerstag vorvergangener Woche,ORG,1.0,0.0,de,1.0
+wi…,wi…,ORG,0.0,0.0,de,1.0
+Sudetendeutsche Tag Prag,Sudetendeutsche Tag Prag,ORG,-1.0,0.0,de,1.0
+Sudetendeutschen,Sudetendeutschen,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst mitte…,Deutsche Wetterdienst mitte…,ORG,-0.7,0.0,de,1.0
+Einsat…,Einsat…,ORG,-0.7,0.0,de,1.0
+teilwe…,teilwe…,ORG,0.0,0.0,de,1.0
+ISTA,ISTA,ORG,0.0,0.0,de,1.0
+mitteil…,mitteil…,ORG,-0.7,0.0,de,1.0
+Polizeiauto,Polizeiauto,ORG,-0.15000000000000002,0.0,de,1.0
+Institute of Science and Technology Austria,Institute of Science and Technology Austria,ORG,0.0,0.0,de,1.0
+Influencer-Welt,Influencer-Welt,ORG,0.7,0.0,de,1.0
+Deutschem Wetterdienst…,Deutschem Wetterdienst…,ORG,0.0,0.0,de,1.0
+Bayern-Team,Bayern-Team,ORG,0.0,0.0,de,1.0
+Deutschen Gesellschaft für Allgemeinmedizin und Familienmedizin,Deutschen Gesellschaft für Allgemeinmedizin und Familienmedizin,ORG,0.0,0.0,de,1.0
+Zud…,Zud…,ORG,0.0,0.0,de,1.0
+ei…,ei…,ORG,0.0,0.0,de,1.0
+Informationsdienstes Aldis/Blids,Informationsdienstes Aldis/Blids,ORG,0.0,0.0,de,1.0
+Deutschen…,Deutschen…,ORG,0.0,0.0,de,1.0
+Sens…,Sens…,ORG,0.0,0.0,de,1.0
+Informationsdienst Aldis/Blids,Informationsdienst Aldis/Blids,ORG,0.0,0.0,de,1.0
+Informationsdienstes Aldis/Blids deutschlandweit,Informationsdienstes Aldis/Blids deutschlandweit,ORG,0.0,0.0,de,1.0
+Luftmass…,Luftmass…,ORG,0.0,0.0,de,1.0
+Deutschen Versicherungswirtschaft,Deutschen Versicherungswirtschaft,ORG,0.0,0.0,de,1.0
+französische Verband,französische Verband,ORG,-1.0,0.0,de,1.0
+untersch…,untersch…,ORG,0.0,0.0,de,1.0
+CDU-Politiker,CDU-Politiker,ORG,0.0,0.0,de,1.0
+Kopf“-YouTuber,Kopf“-YouTuber,ORG,0.0,0.0,de,1.0
+Krebs ++ Der Showmaster,Krebs ++ Der Showmaster,ORG,0.0,0.0,de,1.0
+Paris Saint-Germain wurd,Paris Saint-Germain wurd,ORG,0.0,0.0,de,1.0
+Energiegenossenschaft +++ Schüsse,Energiegenossenschaft +++ Schüsse,ORG,-1.0,0.0,de,1.0
+Gießen,Gießen,ORG,-1.0,0.0,de,1.0
+Rhein… Gießen,Rhein… Gießen,ORG,-1.0,0.0,de,1.0
+++ Thomas Gottschalk,++ Thomas Gottschalk,ORG,0.0,0.0,de,1.0
+VfL Wolfsburg,VfL Wolfsburg,ORG,0.0,0.0,de,1.0
+Opel-Zoo +,Opel-Zoo +,ORG,-1.0,0.0,de,1.0
+Wochenstart +++ Liveblog,Wochenstart +++ Liveblog,ORG,-1.0,0.0,de,1.0
+örtl…,örtl…,ORG,0.0,0.0,de,1.0
+Missbrauchs +++ Liveblog,Missbrauchs +++ Liveblog,ORG,-1.0,0.0,de,1.0
+Blitzschutz und Überspannungsschutz,Blitzschutz und Überspannungsschutz,ORG,1.0,0.0,de,1.0
+Bundesliga,Bundesliga,ORG,0.0,0.0,de,1.0
+Paris Saint-Germain,Paris Saint-Germain,ORG,0.0,0.0,de,1.0
+U-Haft +++ Zwölfjähriger,U-Haft +++ Zwölfjähriger,ORG,-0.15000000000000002,0.0,de,1.0
