@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.20323874773851217
+'+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.18998481285046256
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.120144389491905
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,3,0.1022792987430995
 'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.0787903640028125
