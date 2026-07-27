@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1442472569046773
-'+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.140240238528768
+'+Hagel -CDU',de,Hazard,#ff0000,#ff0000,3,0.13643362002218007
 'Gewitterzelle',de,Causes,#00ffff,#00ffff,1,0.101188954242032
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,2,0.0879591053140072
 'Blitz und Donner',de,Hazard,#ff0000,#ff0000,2,0.0844052217055591
