@@ -6,5 +6,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitz und Donner',de,Hazard,#ff0000,#ff0000,2,0.0770361161822664
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,2,0.0604044403054921
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0275285240352999
-'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.012292202806356425
-'Ambosswolken',de,Causes,#00ffff,#00ffff,1,0.0002166865353935
+'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.0122922028063564
+'Ambosswolken',de,Causes,#00ffff,#00ffff,1,0.000184183555084475
