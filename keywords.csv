@@ -6,5 +6,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitz Feuer',de,Impacts,#ffff00,#ffff00,1,0.0727628175893701
 'Gewitter Warnung',de,Mitigation,#00ff00,#00ff00,2,0.0604044403054921
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0275285240352999
-'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.0122922028063564
+'Hagelschaden',de,Impacts,#ffff00,#ffff00,1,0.01089843238540294
 'Ambosswolken',de,Causes,#00ffff,#00ffff,1,9.6144966901185e-05
