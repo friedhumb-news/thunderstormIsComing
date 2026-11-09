@@ -97,32 +97,32 @@ Sonntag Gewitter,Sonntag Gewitter,MISC,2.0,0.0,de,2.8
 Freundlicher Samstag,Freundlicher Samstag,MISC,,,de,2.8
 Tornado,Tornado,MISC,,,de,2.8
 Wetter in Hessen“,Wetter in Hessen“,MISC,,,de,2.8
-YouTuber,YouTuber,MISC,,,de,2.8
-Internet,Internet,MISC,,,de,2.8
-Tag und Nacht,Tag und Nacht,MISC,,,de,2.8
 YouTuber Jan Zimmermann,YouTuber Jan Zimmermann,MISC,,,de,2.8
+YouTuber,YouTuber,MISC,,,de,2.8
 CDU-Kandidat,CDU-Kandidat,MISC,,,de,2.8
 Tourette-Syndrom,Tourette-Syndrom,MISC,,,de,2.8
-e…,e…,MISC,0.0,0.0,de,2.7
+Tag und Nacht,Tag und Nacht,MISC,,,de,2.8
+Internet,Internet,MISC,,,de,2.8
 ukrainische,ukrainische,MISC,,,de,2.7
-Das bringt das Wetter,Das bringt das Wetter,MISC,,,de,2.7
-N…,N…,MISC,,,de,2.7
-spanischen,spanischen,MISC,,,de,2.7
-Wiener,Wiener,MISC,,,de,2.7
 Me…,Me…,MISC,,,de,2.7
+Wiener,Wiener,MISC,,,de,2.7
+spanischen,spanischen,MISC,,,de,2.7
+N…,N…,MISC,,,de,2.7
+e…,e…,MISC,0.0,0.0,de,2.7
 LIVE,LIVE,MISC,,,de,2.6
 norditalienischen,norditalienischen,MISC,,,de,2.6
 Frankfurter,Frankfurter,MISC,,,de,2.6
 italienische,italienische,MISC,,,de,2.6
-Vuelta,Vuelta,MISC,0.0,0.0,de,2.6
-steirische,steirische,MISC,,,de,2.6
 Flugdatenschreibers,Flugdatenschreibers,MISC,,,de,2.6
-Schoc…,Schoc…,MISC,,,de,1.9
+Vuelta,Vuelta,MISC,0.0,0.0,de,2.6
+Das bringt das Wetter,Das bringt das Wetter,MISC,,,de,2.6
+steirische,steirische,MISC,,,de,2.6
 baden-württembergischen,baden-württembergischen,MISC,,,de,1.9
-Social-Media-Star,Social-Media-Star,MISC,,,de,1.9
 Mi…,Mi…,MISC,,,de,1.9
+Social-Media-Star,Social-Media-Star,MISC,,,de,1.9
 Wirbelsturm-Gefahr,Wirbelsturm-Gefahr,MISC,,,de,1.9
 Wer am Sonntag,Wer am Sonntag,MISC,,,de,1.9
+Schoc…,Schoc…,MISC,,,de,1.9
 Deutsche Wetter…,Deutsche Wetter…,MISC,,,de,1.9
 DFB-Auswahl,DFB-Auswahl,MISC,,,de,1.9
 Deuts…,Deuts…,MISC,,,de,1.9
@@ -130,12 +130,12 @@ picture alliance/dpa/onw-images,picture alliance/dpa/onw-images,MISC,,,de,1.9
 Neue Woche,Neue Woche,MISC,,,de,1.9
 Kaltluftfront,Kaltluftfront,MISC,,,de,1.9
 weiterlesenNach,weiterlesenNach,MISC,,,de,1.9
-ungemütliches,ungemütliches,MISC,,,de,1.9
 Tem…,Tem…,MISC,,,de,1.9
+ungemütliches,ungemütliches,MISC,,,de,1.9
 z…,z…,MISC,,,de,1.9
 Wasservogel,Wasservogel,MISC,,,de,1.9
 Montagnachmittag,Montagnachmittag,MISC,,,de,1.9
-Unwetter-Wochenende,Unwetter-Wochenende,MISC,,,de,1.9
+Freistaat“,Freistaat“,MISC,,,de,1.9
 Erster Gewittersonntag des Jahres,Erster Gewittersonntag des Jahres,MISC,,,de,1.9
 Unwettergefahr,Unwettergefahr,MISC,0.0,0.0,de,1.9
 T-Shirt-Temperaturen,T-Shirt-Temperaturen,MISC,,,de,1.9
@@ -168,11 +168,10 @@ Sonne zum Sonntag,Sonne zum Sonntag,MISC,,,de,1.9
 Nachmittag Blitz und Donner,Nachmittag Blitz und Donner,MISC,,,de,1.9
 Temperaturen,Temperaturen,MISC,0.0434782608695652,0.0,de,1.9
 Un…,Un…,MISC,,,de,1.9
-Unwetterwarnung“,Unwetterwarnung“,MISC,,,de,1.9
-Wetter-Chaos,Wetter-Chaos,MISC,-0.5263157894736842,0.0,de,1.9
+Lightning,Lightning,MISC,,,de,1.9
 Blitz-Statistik,Blitz-Statistik,MISC,,,de,1.9
-Turbo-Prop-Flugzeug,Turbo-Prop-Flugzeug,MISC,,,de,1.9
 Hitzewelle des Jahres,Hitzewelle des Jahres,MISC,,,de,1.9
+Turbo-Prop-Flugzeug,Turbo-Prop-Flugzeug,MISC,,,de,1.9
 Kaltfront,Kaltfront,MISC,0.0,0.0,de,1.9
 WM-Spiels,WM-Spiels,MISC,,,de,1.9
 Tages des Jahres,Tages des Jahres,MISC,,,de,1.9
@@ -180,77 +179,78 @@ Live-Karten,Live-Karten,MISC,-1.0,0.0,de,1.9
 Sommerwetter in Bayern“,Sommerwetter in Bayern“,MISC,,,de,1.9
 Meteorage im Jahr 2025,Meteorage im Jahr 2025,MISC,,,de,1.9
 Hitzewelle,Hitzewelle,MISC,-0.18181818181818182,0.0,de,1.9
+ko…,ko…,MISC,,,de,1.9
 BILD-Buschfunk,BILD-Buschfunk,MISC,,,de,1.9
 olympischen Feuers ins,olympischen Feuers ins,MISC,,,de,1.9
 Kaltfront“,Kaltfront“,MISC,,,de,1.9
-ko…,ko…,MISC,,,de,1.9
 Gothic Remake,Gothic Remake,MISC,,,de,1.9
+spanischen Wetterdienstes,spanischen Wetterdienstes,MISC,,,de,1.9
 Reality-Experten,Reality-Experten,MISC,,,de,1.9
 britische,britische,MISC,,,de,1.9
-Lightning,Lightning,MISC,,,de,1.9
+Wetter-Chaos,Wetter-Chaos,MISC,-0.5263157894736842,0.0,de,1.9
 Gewitterasthma“,Gewitterasthma“,MISC,,,de,1.9
-Gewitter am Samstag“,Gewitter am Samstag“,MISC,,,de,1.9
-Freistaat“,Freistaat“,MISC,,,de,1.9
+Unwetterwarnung“,Unwetterwarnung“,MISC,,,de,1.9
 Three Lions,Three Lions,MISC,,,de,1.9
 finnischen,finnischen,MISC,,,de,1.9
+Tag des Jahres,Tag des Jahres,MISC,,,de,1.9
 Bewohnern,Bewohnern,MISC,,,de,1.9
 Die Hitzewelle,Die Hitzewelle,MISC,,,de,1.9
-Tag des Jahres,Tag des Jahres,MISC,,,de,1.9
-Sonntagmittag,Sonntagmittag,MISC,,,de,1.9
 Online-Plattform X,Online-Plattform X,MISC,,,de,1.9
+Sonntagmittag,Sonntagmittag,MISC,,,de,1.9
 M…,M…,MISC,,,de,1.9
-Frühlingsfreude,Frühlingsfreude,MISC,,,de,1.9
 das alte Jahr,das alte Jahr,MISC,,,de,1.9
 Open-Air-Heimspiel,Open-Air-Heimspiel,MISC,,,de,1.9
+Frühlingsfreude,Frühlingsfreude,MISC,,,de,1.9
 S-Bahnen,S-Bahnen,MISC,0.0,0.0,de,1.9
-Sonne und Regen,Sonne und Regen,MISC,,,de,1.9
 Berlin Tennis Open,Berlin Tennis Open,MISC,,,de,1.9
+Sonne und Regen,Sonne und Regen,MISC,,,de,1.9
+Gewitter am Samstag“,Gewitter am Samstag“,MISC,,,de,1.9
 ZDF-Fernsehgarten,ZDF-Fernsehgarten,MISC,,,de,1.9
-spanischen Wetterdienstes,spanischen Wetterdienstes,MISC,,,de,1.9
-Mit­ar­bei­te­r,Mit­ar­bei­te­r,MISC,,,de,1.8
+Unwetter-Wochenende,Unwetter-Wochenende,MISC,,,de,1.9
 Euro,Euro,MISC,,,de,1.8
-Sonnenschein,Sonnenschein,MISC,0.0,0.0,de,1.8
 Jahr Millionen-Schäden,Jahr Millionen-Schäden,MISC,,,de,1.8
+Mit­ar­bei­te­r,Mit­ar­bei­te­r,MISC,,,de,1.8
+Sonnenschein,Sonnenschein,MISC,0.0,0.0,de,1.8
 Europa League,Europa League,MISC,,,de,1.8
-K…,K…,MISC,,,de,1.8
-Frontscheibe,Frontscheibe,MISC,,,de,1.8
-Hagelsaison,Hagelsaison,MISC,,,de,1.8
-Hit…,Hit…,MISC,,,de,1.8
-Tadej Pogacar,Tadej Pogacar,MISC,,,de,1.8
-Radstar Tadej Pogacar,Radstar Tadej Pogacar,MISC,,,de,1.8
 nass-grauen Wetters,nass-grauen Wetters,MISC,,,de,1.8
+Hit…,Hit…,MISC,,,de,1.8
+K…,K…,MISC,,,de,1.8
+Radstar Tadej Pogacar,Radstar Tadej Pogacar,MISC,,,de,1.8
+Hagelsaison,Hagelsaison,MISC,,,de,1.8
+Tadej Pogacar,Tadej Pogacar,MISC,,,de,1.8
+Frontscheibe,Frontscheibe,MISC,,,de,1.8
 baden-württembergische,baden-württembergische,MISC,,,de,1.3000000000000003
 CDU-Spitzenkandidat,CDU-Spitzenkandidat,MISC,,,de,1.1
-Was…,Was…,MISC,,,de,1.0
-JavaScript,JavaScript,MISC,,,de,1.0
-Browser,Browser,MISC,,,de,1.0
 Zwei Kinder,Zwei Kinder,MISC,,,de,1.0
-Festlichkeiten,Festlichkeiten,MISC,,,de,1.0
-Sturmfront“,Sturmfront“,MISC,,,de,1.0
-Pop-Superstar Taylor Swift,Pop-Superstar Taylor Swift,MISC,,,de,1.0
-Kommunisten“,Kommunisten“,MISC,,,de,1.0
-Unabhängigkeitstag,Unabhängigkeitstag,MISC,,,de,1.0
-Tages…,Tages…,MISC,,,de,1.0
-Neue Anstoßzeit,Neue Anstoßzeit,MISC,,,de,1.0
 WM-Kracher Mexiko,WM-Kracher Mexiko,MISC,,,de,1.0
-Wochenendvergnügen am Sonntag,Wochenendvergnügen am Sonntag,MISC,,,de,1.0
+Neue Anstoßzeit,Neue Anstoßzeit,MISC,,,de,1.0
+Sturmfront“,Sturmfront“,MISC,,,de,1.0
+Kommunisten“,Kommunisten“,MISC,,,de,1.0
 Gewitterasthma,Gewitterasthma,MISC,,,de,1.0
-Zu-null-Mexiko,Zu-null-Mexiko,MISC,,,de,1.0
-oppositionel…,oppositionel…,MISC,,,de,1.0
-Das Konzert,Das Konzert,MISC,,,de,1.0
+Was…,Was…,MISC,,,de,1.0
+Browser,Browser,MISC,,,de,1.0
+JavaScript,JavaScript,MISC,,,de,1.0
+Pop-Superstar Taylor Swift,Pop-Superstar Taylor Swift,MISC,,,de,1.0
+Unabhängigkeitstag,Unabhängigkeitstag,MISC,,,de,1.0
+Wochenendvergnügen am Sonntag,Wochenendvergnügen am Sonntag,MISC,,,de,1.0
 Grad werd…,Grad werd…,MISC,,,de,1.0
-Foo-Fighters-Fans,Foo-Fighters-Fans,MISC,,,de,1.0
-Mexikanische Gala,Mexikanische Gala,MISC,,,de,1.0
-US-amerikanischen,US-amerikanischen,MISC,,,de,1.0
-Frankreich Schweden,Frankreich Schweden,MISC,,,de,1.0
-Weihnachten,Weihnachten,MISC,,,de,1.0
+Tages…,Tages…,MISC,,,de,1.0
+Zu-null-Mexiko,Zu-null-Mexiko,MISC,,,de,1.0
+Festlichkeiten,Festlichkeiten,MISC,,,de,1.0
 Mexiko-Spiel,Mexiko-Spiel,MISC,,,de,1.0
-Gewitter,Gewitter,MISC,0.006317689530685907,0.0,de,1.0
+Foo-Fighters-Fans,Foo-Fighters-Fans,MISC,,,de,1.0
+US-amerikanischen,US-amerikanischen,MISC,,,de,1.0
+Mexikanische Gala,Mexikanische Gala,MISC,,,de,1.0
+Weihnachten,Weihnachten,MISC,,,de,1.0
+Frankreich Schweden,Frankreich Schweden,MISC,,,de,1.0
+Das Konzert,Das Konzert,MISC,,,de,1.0
 Strapaze,Strapaze,MISC,,,de,1.0
+Gewitter,Gewitter,MISC,0.006317689530685907,0.0,de,1.0
 Die MAGA-Bewegung,Die MAGA-Bewegung,MISC,,,de,1.0
+USA-Feier,USA-Feier,MISC,,,de,1.0
 England-Spiel,England-Spiel,MISC,,,de,1.0
 Gewitter-Protokoll,Gewitter-Protokoll,MISC,,,de,1.0
-USA-Feier,USA-Feier,MISC,,,de,1.0
+oppositionel…,oppositionel…,MISC,,,de,1.0
 TTS-Player überspringenArtikel weiterlesenEs,TTS-Player überspringenArtikel weiterlesenEs,MISC,,,de,1.0
 Pfla…,Pfla…,MISC,,,de,1.0
 Obstbäumen,Obstbäumen,MISC,,,de,1.0
@@ -574,10 +574,10 @@ YouTube-Star,YouTube-Star,MISC,-1.0,0.0,de,1.0
 Königswinter Traurige Nachrichten,Königswinter Traurige Nachrichten,MISC,,,de,1.0
 Bild-Zeitung,Bild-Zeitung,MISC,,,de,1.0
 Wahrscheinlic…,Wahrscheinlic…,MISC,,,de,1.0
-Internet“,Internet“,MISC,,,de,1.0
-Köni…,Köni…,MISC,,,de,1.0
 Der Youtube-Star Jan Zimmermann,Der Youtube-Star Jan Zimmermann,MISC,,,de,1.0
 Youtube-Star Jan Zimmerma…,Youtube-Star Jan Zimmerma…,MISC,,,de,1.0
+Internet“,Internet“,MISC,,,de,1.0
+Köni…,Köni…,MISC,,,de,1.0
 YouTube-Kanal,YouTube-Kanal,MISC,,,de,1.0
 deutsche You…,deutsche You…,MISC,,,de,1.0
 "Kopf""-Star","Kopf""-Star",MISC,,,de,1.0
@@ -740,15 +740,15 @@ Temper…,Temper…,MISC,,,de,1.0
 Tag zu Tag,Tag zu Tag,MISC,,,de,1.0
 Temperaturen z…,Temperaturen z…,MISC,,,de,1.0
 Hagelhäufigkeit,Hagelhäufigkeit,MISC,,,de,1.0
-Wechselhaftes Wetter“,Wechselhaftes Wetter“,MISC,,,de,1.0
 Bess…,Bess…,MISC,,,de,1.0
+Wechselhaftes Wetter“,Wechselhaftes Wetter“,MISC,,,de,1.0
 Vatertags-Ausflug,Vatertags-Ausflug,MISC,,,de,1.0
 Gepäck“,Gepäck“,MISC,,,de,1.0
 Der Regenschirm,Der Regenschirm,MISC,,,de,1.0
 Regensc…,Regensc…,MISC,,,de,1.0
 Temperaturen am Sonntag,Temperaturen am Sonntag,MISC,,,de,1.0
-Sturmböen a,Sturmböen a,MISC,,,de,1.0
 Sonntagnachmittag vor,Sonntagnachmittag vor,MISC,,,de,1.0
+Sturmböen a,Sturmböen a,MISC,,,de,1.0
 Abe…,Abe…,MISC,,,de,1.0
 Das schöne Frühlingswetter,Das schöne Frühlingswetter,MISC,,,de,1.0
 Gewitter und Sturm,Gewitter und Sturm,MISC,,,de,1.0
@@ -756,9 +756,9 @@ Fan-Village,Fan-Village,MISC,,,de,1.0
 Sozialen,Sozialen,MISC,,,de,1.0
 V…,V…,MISC,,,de,1.0
 u…,u…,MISC,,,de,1.0
-gehts danach w…,gehts danach w…,MISC,,,de,1.0
 Nasser Feiertag,Nasser Feiertag,MISC,,,de,1.0
 An Christi Himmelfahrt,An Christi Himmelfahrt,MISC,,,de,1.0
+gehts danach w…,gehts danach w…,MISC,,,de,1.0
 Badehose sol…,Badehose sol…,MISC,,,de,1.0
 Sommerliche Pfingsten,Sommerliche Pfingsten,MISC,0.3684210526315789,0.0,de,1.0
 tschechischem,tschechischem,MISC,,,de,1.0
